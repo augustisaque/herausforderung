@@ -11,4 +11,4 @@ docker-compose -f stack.yml up
 ```
 ## Requests
 
-Use the requests that are located in the file postman_requests.txt to test the services.
+Use the requests that are located in the file requisicoes_postman.txt to test the services.
