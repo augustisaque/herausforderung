@@ -1,0 +1,23 @@
+//Listar Pessoas GET
+localhost:8080/v1/admin/pessoas/list/
+
+//Salvar Pessoas POST
+localhost:8080/v1/admin/pessoas/save/
+{
+	"name":"Isaque",
+	"lastname":"August",
+    "age":"25",
+    "sex":"Male"
+}
+
+//Deletar Pessoas POST
+localhost:8080/v1/admin/pessoas/delete/1
+
+//Atualizar Pessoa PUT
+localhost:8080/v1/admin/pessoas/update/1
+{
+	"name":"Isaque",
+	"lastname":"August",
+    "age":"26",
+    "sex":"Male"
+}
