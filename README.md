@@ -9,3 +9,6 @@ In the project directory run the command below to start the SQL Server in a dock
 ```bash
 docker-compose -f stack.yml up
 ```
+## Requests
+
+Use the requests that are located in the file postman_requests.txt to test the services.
