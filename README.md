@@ -1,4 +1,4 @@
-#T-Systems Herausforderung
+# T-Systems Herausforderung
 
 Basic challange project using Java, Spring Boot, Docker, SQL and Maven.
 
